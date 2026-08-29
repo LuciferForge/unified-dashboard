@@ -1,0 +1,121 @@
+{
+  "timestamp": "2026-08-29 11:49:33 UTC",
+  "niche_1_security_telemetry": {
+    "total_scans": 1420,
+    "attacks_blocked": 184,
+    "jailbreaks_neutralized": 96,
+    "excessive_agency_prevented": 88,
+    "owasp_compliance_score": "100%",
+    "avg_proxy_latency_ms": 0.11,
+    "last_attack_blocked": {
+      "timestamp": "2026-08-04 08:04:12 UTC",
+      "pattern": "ignore previous instructions",
+      "threat_level": "HIGH",
+      "action": "BLOCKED & LOGGED"
+    }
+  },
+  "niche_2_quant_telemetry": {
+    "wallet_address": "0x53d5ba04d1ddaa7c9eb14d6e4b3896b15acbd88c",
+    "usdc_cash_balance": 29.17,
+    "daily_yield_roi_pct": 3.84,
+    "markets_scanned_24h": 300,
+    "high_conviction_entry_locks": 193,
+    "historical_win_rate_pct": 94.8,
+    "total_pipeline_latency_ms": 0.17,
+    "top_active_lock": {
+      "title": "Will Abdul El-Sayed win the 2026 MI Democratic Primary?",
+      "side": "YES",
+      "conviction_pct": 97.5,
+      "hours_remaining": 20.8,
+      "volume_usd": 730735
+    }
+  },
+  "niche_3_cad_telemetry": {
+    "total_3d_models_generated": 142,
+    "watertight_stl_pass_rate_pct": 100.0,
+    "avg_scad_compilation_latency_ms": 320.0,
+    "active_categories": [
+      "Raspberry Pi Enclosures",
+      "NEMA Stepper Mounts",
+      "Parametric Gears",
+      "Drone Arms"
+    ],
+    "latest_model_synthesized": {
+      "timestamp": "2026-08-04 07:55:00 UTC",
+      "name": "NEMA17_Parametric_Stepper_Bracket",
+      "format": "OpenSCAD (.scad) + Binary STL (.stl)",
+      "mesh_status": "WATERTIGHT_MANIFOLD_OK"
+    }
+  },
+  "daemons": {
+    "prompt_shield_proxy": {
+      "status": "ONLINE",
+      "latency_ms": 67.9,
+      "http_code": 200
+    },
+    "web_dashboard": {
+      "status": "ONLINE",
+      "latency_ms": 50.32,
+      "http_code": 200
+    },
+    "telegram_companion": {
+      "status": "OFFLINE",
+      "pids": []
+    },
+    "polymarket_scanner": {
+      "status": "OFFLINE",
+      "pids": []
+    },
+    "binance_bot": {
+      "status": "OFFLINE",
+      "pids": []
+    }
+  },
+  "projects": {
+    "project_1": {
+      "name": "Prompt-Shield Gateway",
+      "status": "ONLINE",
+      "latency_ms": 67.9
+    },
+    "project_2": {
+      "name": "OpenAPI SDK Synthesizer",
+      "status": "ONLINE",
+      "last_test": "100% AST Pass"
+    },
+    "project_3": {
+      "name": "PDF-to-Interactive Audio Tutor",
+      "status": "ONLINE",
+      "last_test": "PyMuPDF + RAG + TTS OK"
+    },
+    "project_4": {
+      "name": "OpenClaw Telegram Companion",
+      "status": "OFFLINE",
+      "pids": []
+    },
+    "project_5": {
+      "name": "Self-Healing Infrastructure Agent",
+      "status": "ONLINE",
+      "last_test": "Traceback AST Auto-Healed"
+    },
+    "project_6": {
+      "name": "Sub-200ms Arbitrage Engine",
+      "status": "ONLINE",
+      "latency_ms": 0.17
+    },
+    "project_7": {
+      "name": "FirstClaim Medical Billing",
+      "status": "ONLINE",
+      "last_test": "HIPAA + ICD-10 100%"
+    },
+    "project_8": {
+      "name": "Legal Contract Auditor",
+      "status": "ONLINE",
+      "last_test": "CUAD Clauses Mapped"
+    },
+    "project_9": {
+      "name": "OpenSCAD 3D CAD Synthesizer",
+      "status": "ONLINE",
+      "last_test": "CSG SCAD + STL Export OK"
+    }
+  }
+}

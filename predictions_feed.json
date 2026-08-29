@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-08-29 11:48:00 UTC",
+  "total_scanned": 300,
+  "total_high_conviction": 177,
+  "predictions": [
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will Ayanna Pressley be the Democratic nominee for Senate in Massachusetts?",
+      "side": "NO",
+      "prob": 100.0,
+      "hrs_left": 60.2,
+      "volume": 3561.242484,
+      "token_id": "30456377079515407809829108891518063650012552446083178920010490379622079832834"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_YES",
+      "question": "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?",
+      "side": "YES",
+      "prob": 97.5,
+      "hrs_left": 60.2,
+      "volume": 61205.13015400001,
+      "token_id": "37035256877408399580736195139426691769375007411009516519857957496398965276087"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts?",
+      "side": "NO",
+      "prob": 98.4,
+      "hrs_left": 60.2,
+      "volume": 77513.44123299999,
+      "token_id": "37518056658940007903744390874310561472613314815781874753392460814550849478588"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will Alexander Rikleen be the Democratic nominee for Senate in Massachusetts?",
+      "side": "NO",
+      "prob": 100.0,
+      "hrs_left": 60.2,
+      "volume": 3246.8997170000007,
+      "token_id": "56742120691246369719604603136100568908017203382927383431809341726005584480541"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
+      "side": "NO",
+      "prob": 99.4,
+      "hrs_left": 60.2,
+      "volume": 13486.029467,
+      "token_id": "1052724290161198589622161350373998621176517564589521276560935970101688895334"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_YES",
+      "question": "Will Michael Minogue win the 2026 Massachusetts Governor Republican primary election?",
+      "side": "YES",
+      "prob": 98.2,
+      "hrs_left": 60.2,
+      "volume": 22189.747717000002,
+      "token_id": "69532105677489842902666590969915583264888128932395000368183267178728662297389"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will Brian Shortsleeve win the 2026 Massachusetts Governor Republican primary election?",
+      "side": "NO",
+      "prob": 98.4,
+      "hrs_left": 60.2,
+      "volume": 7256.1303339999995,
+      "token_id": "92922577269043238513734546664269248088728714210130946326867486023923281255286"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will the number of Republican House members who retire in 2026 be fewer than 24?",
+      "side": "NO",
+      "prob": 99.4,
+      "hrs_left": 36.2,
+      "volume": 6306.650533999999,
+      "token_id": "102282495724728145503590068938456419856338447487625172072096551524174375085545"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will the number of Republican House members who retire in 2026 be between 24 and 27 inclusive?",
+      "side": "NO",
+      "prob": 99.7,
+      "hrs_left": 36.2,
+      "volume": 20878.382023,
+      "token_id": "86720801120812523206375862885554727968671842048571953285734439150624995757719"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will the number of Republican House members who retire in 2026 be between 28 and 31 inclusive?",
+      "side": "NO",
+      "prob": 99.3,
+      "hrs_left": 36.2,
+      "volume": 23674.008267,
+      "token_id": "26089319074590795210476289468934414386490143191167179409102092139417103170837"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will the number of Republican House members who retire in 2026 be between 32 and 35 inclusive?",
+      "side": "NO",
+      "prob": 99.7,
+      "hrs_left": 36.2,
+      "volume": 6462.644755,
+      "token_id": "49741609004781342711179849070128334110798460232218737742146637694522428416234"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_YES",
+      "question": "Will the number of Republican House members who retire in 2026 be between 36 and 39 inclusive?",
+      "side": "YES",
+      "prob": 91.5,
+      "hrs_left": 36.2,
+      "volume": 8795.316645,
+      "token_id": "35728543926876832227758010997325479102150155332621985448512538195119929531554"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will the number of Republican House members who retire in 2026 be between 40 and 43 inclusive?",
+      "side": "NO",
+      "prob": 96.9,
+      "hrs_left": 36.2,
+      "volume": 4457.816579,
+      "token_id": "37921534922010226146703074549600791269918801302227759309433381423805138270558"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will the number of Republican House members who retire in 2026 be 44 or more?",
+      "side": "NO",
+      "prob": 99.8,
+      "hrs_left": 36.2,
+      "volume": 3844.9227500000006,
+      "token_id": "92269994048518357863385104036810846326684031835851654275504679077189526944972"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will the number of Democratic House members who retire in 2026 be fewer than 20?",
+      "side": "NO",
+      "prob": 97.7,
+      "hrs_left": 36.2,
+      "volume": 18096.859661000002,
+      "token_id": "85565432838456358220019898768979855150165798219501793648979769700463322077093"
+    }
+  ]
+}
