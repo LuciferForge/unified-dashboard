@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30 02:15:50 UTC",
+  "timestamp": "2026-08-30 03:30:41 UTC",
   "niche_1_security_telemetry": {
     "total_scans": 1420,
     "attacks_blocked": 184,
@@ -50,12 +50,12 @@
   "daemons": {
     "prompt_shield_proxy": {
       "status": "ONLINE",
-      "latency_ms": 50.69,
+      "latency_ms": 32.77,
       "http_code": 200
     },
     "web_dashboard": {
       "status": "ONLINE",
-      "latency_ms": 49.57,
+      "latency_ms": 18.32,
       "http_code": 200
     },
     "telegram_companion": {
@@ -75,7 +75,7 @@
     "project_1": {
       "name": "Prompt-Shield Gateway",
       "status": "ONLINE",
-      "latency_ms": 50.69
+      "latency_ms": 32.77
     },
     "project_2": {
       "name": "OpenAPI SDK Synthesizer",
