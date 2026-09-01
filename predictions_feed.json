@@ -1,142 +1,142 @@
 {
-  "timestamp": "2026-08-30 09:55:59 UTC",
+  "timestamp": "2026-09-01 02:28:44 UTC",
   "total_scanned": 300,
-  "total_high_conviction": 213,
+  "total_high_conviction": 190,
   "predictions": [
     {
-      "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will Ayanna Pressley be the Democratic nominee for Senate in Massachusetts?",
-      "side": "NO",
-      "prob": 100.0,
-      "hrs_left": 38.1,
-      "volume": 3561.242484,
-      "token_id": "30456377079515407809829108891518063650012552446083178920010490379622079832834"
-    },
-    {
       "type": "SHORT_TERM_LOCK_YES",
-      "question": "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?",
+      "question": "Zoe Kravitz and Harry Styles engaged by August 31?",
       "side": "YES",
-      "prob": 98.6,
-      "hrs_left": 38.1,
-      "volume": 67168.30718500001,
-      "token_id": "37035256877408399580736195139426691769375007411009516519857957496398965276087"
+      "prob": 96.5,
+      "hrs_left": 1.5,
+      "volume": 1436.353343,
+      "token_id": "56073320353651837220021397288050948013707188785019491568619768779534389779179"
     },
     {
       "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts?",
-      "side": "NO",
-      "prob": 98.6,
-      "hrs_left": 38.1,
-      "volume": 83863.27451599995,
-      "token_id": "37518056658940007903744390874310561472613314815781874753392460814550849478588"
-    },
-    {
-      "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will Alexander Rikleen be the Democratic nominee for Senate in Massachusetts?",
-      "side": "NO",
-      "prob": 100.0,
-      "hrs_left": 38.1,
-      "volume": 3246.8997170000007,
-      "token_id": "56742120691246369719604603136100568908017203382927383431809341726005584480541"
-    },
-    {
-      "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
-      "side": "NO",
-      "prob": 99.7,
-      "hrs_left": 38.1,
-      "volume": 13486.029467,
-      "token_id": "1052724290161198589622161350373998621176517564589521276560935970101688895334"
-    },
-    {
-      "type": "SHORT_TERM_LOCK_YES",
-      "question": "Will Michael Minogue win the 2026 Massachusetts Governor Republican primary election?",
-      "side": "YES",
-      "prob": 98.4,
-      "hrs_left": 38.1,
-      "volume": 22189.747717000006,
-      "token_id": "69532105677489842902666590969915583264888128932395000368183267178728662297389"
-    },
-    {
-      "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will Brian Shortsleeve win the 2026 Massachusetts Governor Republican primary election?",
-      "side": "NO",
-      "prob": 98.4,
-      "hrs_left": 38.1,
-      "volume": 7256.130333999999,
-      "token_id": "92922577269043238513734546664269248088728714210130946326867486023923281255286"
-    },
-    {
-      "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will the number of Republican House members who retire in 2026 be fewer than 24?",
-      "side": "NO",
-      "prob": 99.3,
-      "hrs_left": 14.1,
-      "volume": 6306.650533999999,
-      "token_id": "102282495724728145503590068938456419856338447487625172072096551524174375085545"
-    },
-    {
-      "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will the number of Republican House members who retire in 2026 be between 24 and 27 inclusive?",
-      "side": "NO",
-      "prob": 99.8,
-      "hrs_left": 14.1,
-      "volume": 20937.941022999996,
-      "token_id": "86720801120812523206375862885554727968671842048571953285734439150624995757719"
-    },
-    {
-      "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will the number of Republican House members who retire in 2026 be between 28 and 31 inclusive?",
+      "question": "Will Kylian Mbappe leave Real Madrid before August 31?",
       "side": "NO",
       "prob": 99.2,
-      "hrs_left": 14.1,
-      "volume": 23674.008267,
-      "token_id": "26089319074590795210476289468934414386490143191167179409102092139417103170837"
+      "hrs_left": 1.5,
+      "volume": 24358.739446000007,
+      "token_id": "89491917572959636963882931030950258438851567415237526936094496440084161046314"
     },
     {
       "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will the number of Republican House members who retire in 2026 be between 32 and 35 inclusive?",
+      "question": "Will Valve add first CS2 operation by August 31, 2026?",
       "side": "NO",
-      "prob": 99.6,
-      "hrs_left": 14.1,
-      "volume": 6462.644755,
-      "token_id": "49741609004781342711179849070128334110798460232218737742146637694522428416234"
-    },
-    {
-      "type": "SHORT_TERM_LOCK_YES",
-      "question": "Will the number of Republican House members who retire in 2026 be between 36 and 39 inclusive?",
-      "side": "YES",
-      "prob": 93.2,
-      "hrs_left": 14.1,
-      "volume": 9363.269479999999,
-      "token_id": "35728543926876832227758010997325479102150155332621985448512538195119929531554"
+      "prob": 99.4,
+      "hrs_left": 1.5,
+      "volume": 8035.591167,
+      "token_id": "73095220668613030583620679994396569312375065721675622279660918651295878251298"
     },
     {
       "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will the number of Republican House members who retire in 2026 be between 40 and 43 inclusive?",
+      "question": "Will Elon Musk tweet \"Hyperliquid\" by August 31, 2026?",
       "side": "NO",
-      "prob": 97.2,
-      "hrs_left": 14.1,
-      "volume": 4457.816579,
-      "token_id": "37921534922010226146703074549600791269918801302227759309433381423805138270558"
+      "prob": 99.0,
+      "hrs_left": 1.5,
+      "volume": 11279.509196,
+      "token_id": "81905629695376179467642152439122205490366546600283546015907818703618943938229"
     },
     {
       "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will the number of Republican House members who retire in 2026 be 44 or more?",
+      "question": "Fnatic merger/acquisition announced by September 1, 2026?",
       "side": "NO",
-      "prob": 99.8,
-      "hrs_left": 14.1,
-      "volume": 3956.5652500000006,
-      "token_id": "92269994048518357863385104036810846326684031835851654275504679077189526944972"
+      "prob": 96.7,
+      "hrs_left": 25.5,
+      "volume": 10197.859156,
+      "token_id": "15008896777364957831854139323337683070449862804068179944484974109246193957446"
     },
     {
       "type": "SHORT_TERM_LOCK_NO",
-      "question": "Will the number of Democratic House members who retire in 2026 be fewer than 20?",
+      "question": "Will Brazil's Q2 2026 GDP growth rate (QoQ) be less than 0.0%?",
       "side": "NO",
-      "prob": 97.8,
-      "hrs_left": 14.1,
-      "volume": 18154.599661,
-      "token_id": "85565432838456358220019898768979855150165798219501793648979769700463322077093"
+      "prob": 95.3,
+      "hrs_left": 21.5,
+      "volume": 1790.9063560000002,
+      "token_id": "100700115807705041050609365722797561649745342569794290941836749346998553716251"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will Brazil's Q2 2026 GDP growth rate (QoQ) be between 0.0% and 0.2%?",
+      "side": "NO",
+      "prob": 91.2,
+      "hrs_left": 21.5,
+      "volume": 4022.079481,
+      "token_id": "30604960385278392615918013405996540936246515651933166692824940852845143347663"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will Brazil's Q2 2026 GDP growth rate (QoQ) be between 0.9% and 1.1%?",
+      "side": "NO",
+      "prob": 99.4,
+      "hrs_left": 21.5,
+      "volume": 6685.621168,
+      "token_id": "41453390756111861768805152371136249723504104545459481629304282185704654954366"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will Brazil's Q2 2026 GDP growth rate (QoQ) be between 1.2% and 1.4%?",
+      "side": "NO",
+      "prob": 99.9,
+      "hrs_left": 21.5,
+      "volume": 3260.978907,
+      "token_id": "105060924045266925849109234916943196536375652452756423446771980076329901925161"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will Brazil's Q2 2026 GDP growth rate (QoQ) be at least 1.5%?",
+      "side": "NO",
+      "prob": 100.0,
+      "hrs_left": 21.5,
+      "volume": 1198.417386,
+      "token_id": "40959646250300320486361658887760298543337455714750222147659304165465247289712"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Another critical Cloudflare incident by August 31, 2026?",
+      "side": "NO",
+      "prob": 96.0,
+      "hrs_left": 1.5,
+      "volume": 25736.670551000003,
+      "token_id": "69041942404177533620814675910802799270270853533727255776144490754995976907427"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will \"hate that i made you love me - Ariana Grande\" be the song of the summer?",
+      "side": "NO",
+      "prob": 97.3,
+      "hrs_left": 1.5,
+      "volume": 8482.892027,
+      "token_id": "53837829072751973174086140700853596687862553130115314057797600500778628347420"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will \"Midnight Sun - Zara Larsson\" be the song of the summer?",
+      "side": "NO",
+      "prob": 99.4,
+      "hrs_left": 1.5,
+      "volume": 1842.6835619999997,
+      "token_id": "66193208263755418295303821797025549815421369176544979132908013358693928036746"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will \"Talk To You - ANOTR & 54 Ultra\" be the song of the summer?",
+      "side": "NO",
+      "prob": 100.0,
+      "hrs_left": 1.5,
+      "volume": 1140.64818,
+      "token_id": "57505518468107561739470474009335199691128285585646280629057305295310686892847"
+    },
+    {
+      "type": "SHORT_TERM_LOCK_NO",
+      "question": "Will \"CH\u00c9VERE - ARIA VEGA & Ryan Castro\" be the song of the summer?",
+      "side": "NO",
+      "prob": 100.0,
+      "hrs_left": 1.5,
+      "volume": 1051.66,
+      "token_id": "115249563195164337880514721422331377842659997311364586621298653379275595308420"
     }
   ]
 }
